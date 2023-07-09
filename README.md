@@ -12,7 +12,7 @@ CEC-CONNECT is a user-friendly platform designed to empower students and teacher
 - [Contact](#contact)
 
 ## Screenshots
-     https://github.com/Akashkumarl/cec_connect_app/blob/main/Image/Screenshot_20230626-205005.jpg
+     
 ## Installation
 
 To install CEC-CONNECT, follow these steps:
