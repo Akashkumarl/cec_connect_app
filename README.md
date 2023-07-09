@@ -31,7 +31,7 @@ Once the app is installed and running, you can:
 - Search for profiles of other users based on skills.
 - Calculate SGPA using the provided SGPA calculator.
 - Access the staff directory bot to get details of teachers.
-- Share text messages and images with students and staffs.
+- Share text messages with students and staffs.
 
 ## Features
 
@@ -39,7 +39,6 @@ Once the app is installed and running, you can:
 - Skill-based search: Users can search and browse profiles of others based on skills.
 - SGPA calculator: Students can calculate their SGPA using the built-in calculator.
 - Staff directory bot: Students can access a staff directory bot to get details about teachers.
-- Messaging system: Teachers can share text messages and images with students and staff members.
 
 ## Contact
 
